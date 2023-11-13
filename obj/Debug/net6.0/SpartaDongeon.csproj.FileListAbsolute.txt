@@ -1,0 +1,14 @@
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\bin\Debug\net6.0\SpartaDongeon.exe
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\bin\Debug\net6.0\SpartaDongeon.deps.json
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\bin\Debug\net6.0\SpartaDongeon.runtimeconfig.json
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\bin\Debug\net6.0\SpartaDongeon.dll
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\bin\Debug\net6.0\SpartaDongeon.pdb
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\obj\Debug\net6.0\SpartaDongeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\obj\Debug\net6.0\SpartaDongeon.AssemblyInfoInputs.cache
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\obj\Debug\net6.0\SpartaDongeon.AssemblyInfo.cs
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\obj\Debug\net6.0\SpartaDongeon.csproj.CoreCompileInputs.cache
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\obj\Debug\net6.0\SpartaDongeon.dll
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\obj\Debug\net6.0\refint\SpartaDongeon.dll
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\obj\Debug\net6.0\SpartaDongeon.pdb
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\obj\Debug\net6.0\SpartaDongeon.genruntimeconfig.cache
+C:\Users\KTY\Desktop\c#문법\SpartaDongeon\SpartaDongeon\obj\Debug\net6.0\ref\SpartaDongeon.dll
